@@ -699,7 +699,7 @@ if(language){
       break;
 }
 } else{
-  var levels = levelsEnglish;
+  var levels = levelsSpanish;
 }
 
 $(document).ready(function(){
